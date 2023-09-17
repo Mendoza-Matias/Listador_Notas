@@ -28,6 +28,8 @@
 
 **Database** MySQL
 
+**Orm** Sequeleze
+
 ---
 # Crud-React Node. js
 
@@ -45,6 +47,8 @@
 **Server:** Node, Express
 
 **Database** MySQL
+
+**Orm** Sequeleze
 
 
 
